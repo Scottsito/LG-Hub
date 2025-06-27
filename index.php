@@ -64,7 +64,7 @@
 
     </div>  
     <img src = "./logo.gif"/>
-    <h4 class = "h2">Welcome to the HTML5 & CSS version of Gxme Hub!</h4>
+    <h4 class = "h1">Welcome to the HTML5 & CSS version of Gxme Hub!</h4>
     <a href="./gxmes">Click here to play!</a> 
     <div class="container">
       <h1 class="heading" data-target-resolver></h1>
