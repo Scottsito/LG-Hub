@@ -72,7 +72,6 @@
     <br><br><br><br><br><br>
 <a href="//www.dmca.com/Protection/Status.aspx?ID=a3a22fb4-df6e-4d3c-ac91-fc5d1c6d4cfa" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca-badge-w100-5x1-06.png?ID=a3a22fb4-df6e-4d3c-ac91-fc5d1c6d4cfa"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
 <!-- Start of WebFreeCounter Code --> 
-<img id = "counter" src="https://www.webfreecounter.com/hit.php?id=gepcdqf&nd=7&style=88" border="0" alt="visitor counter"></a>
 <!-- End of WebFreeCounter Code -->
       <i onclick = "location.href='https://discord.gg/9U8tHAQT43'" class="fa-brands fa-discord"></i>
       <i onclick = "location.href='https://www.youtube.com/channel/UCXTp8rL5fLSEKE693nYYkDQ'" class="fa-brands fa-youtube"></i>
